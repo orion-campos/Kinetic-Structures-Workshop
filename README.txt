@@ -5,18 +5,18 @@ ABOUT
 Kinetic Structures Workshop, from January 7th to January 14th, 2018, at Bezalel Academy of Arts and Design, Department of Architecture, Jerusalem, Israel, in which 4th and 5th year students of Architecture where taught by Orion Campos, during a one week workshop, the basics on electronics and Arduino to create interactive models.
 
 At the first two days, classes of basic Electronic, Arduino, Grasshopper 3D and Firefly took place. Teaching from the very beginning electronic concepts, the classes created a base for the participants to develop their own projects during the remain of the week.
-At the second phase, the participants informed about their projects they were developing at school alone or in couples and the tutors guided them to possible outputs they could aim. They were divided into four groups with two projects per group. The division was made based on technical similarities among them i.e. both projects would use temperature sensors, both projects would use LED’s, both projects would use a distance sensor, both projects would use Firefly. This division was made in order to optimize the time to develop the code for each group and to assemble the electronics of each group, since both would use the same components and (almost) the same code. Grouping them by technical similarities would encourage the groups to develop the projects together and learn and help each other.
+At the second phase, the participants informed about their projects they were developing at school alone or in couples and the tutors guided them to possible outputs they could aim. They were divided into four groups with two projects per group. The division was made based on technical similarities among them i.e. both projects would use temperature sensors, both projects would use LED√ïs, both projects would use a distance sensor, both projects would use Firefly. This division was made in order to optimize the time to develop the code for each group and to assemble the electronics of each group, since both would use the same components and (almost) the same code. Grouping them by technical similarities would encourage the groups to develop the projects together and learn and help each other.
 The final working prototypes were presented after 7 days, made from people who had none experience at electronics.
 
 Conceptual development, organization, creation of classes and main tutoring by Orion Campos.
 Organization and assistant tutoring by Ran Shabtay and Natanel Elfassy
 
-GROUP 1.1 - Michal Weintraub · Doron Winter
-GROUP 1.2 - Noa Guy · Mordechai Bachar
-GROUP 2.1 - Sapir Dror · Eran Damari
+GROUP 1.1 - Michal Weintraub and Doron Winter
+GROUP 1.2 - Noa Guy and Mordechai Bachar
+GROUP 2.1 - Sapir Dror and Eran Damari
 GROUP 2.1 - Yuval Bar-Adon
-GROUP 3.1 - David Gonçalves · Yair Ben David · Eliran Buzaglo · Maria Korpachev
-GROUP 3.2 - Chen Gabay · Nelly Panchenko
+GROUP 3.1 - David Goncalves, Yair Ben David, Eliran Buzaglo and Maria Korpachev
+GROUP 3.2 - Chen Gabay and Nelly Panchenko
 GROUP 3.3 - Tal Chiki
 GROUP 4.1 - Itay Stoler
 
@@ -113,7 +113,7 @@ _1_blink
 
 	Output:
 	1x 5mm LED
-	1x 560Ω resistor (if the digital pin 13 is not used)
+	1x 560¬Ω resistor (if the digital pin 13 is not used)
 
 	modified May 8th, 2014
 	by Scott Fitzgerald
@@ -135,7 +135,7 @@ _2_rgb
 
 	Output:
 	1x RGB LED
-	3x 560KΩ resistor
+	3x 560K¬Ω resistor
 
 	created November 30th, 2012
 	by Simon Monk <www.adafruit.com>
@@ -152,10 +152,10 @@ _3_photoresistor
 
 	Input:
 	1x Photo cell (CdS photoresistor)
-	1x 10KΩ resistor
+	1x 10K¬Ω resistor
 	Output:
 	1x 5mm LED
-	1x 560Ω resistor
+	1x 560¬Ω resistor
 
 	created December 24th, 2017
 	by Orion Campos <www.orioncampos.com> <https://github.com/orion-campos>
@@ -173,7 +173,7 @@ _4_IRDS
 	1x SHARP IR distance sensor (GP2Y0A21YK0F - 10 to 80cm range, GP2Y0A02YK - 20 to 150cm range, GP2Y0A710K0F - 100 to 500cm)
 	Output:
 	1x 5mm LED
-	1x 220Ω resistor
+	1x 220¬Ω resistor
 
 	created December 24th, 2017
 	by Orion Campos <www.orioncampos.com> <https://github.com/orion-campos>
@@ -190,10 +190,10 @@ _5_temp_hum
 
 	Input:
 	1x DHT-22 (AM2302)
-	1x 10KΩ resistor
+	1x 10K¬Ω resistor
 	Output:
 	1x 5mm LED
-	1x 220Ω resistor
+	1x 220¬Ω resistor
 
 	created July 1st, 2015
 	by Michalis Vasilakis <www.ardumotive.com>
@@ -242,7 +242,7 @@ GRASSHOPPER 3D
 turning_tower
 
 	Turning Tower
-	From a closed and planar curve created in Rhinoceros 3D, moved into the axis Z by a series of 100 values, rotated by a range of 100 values from 0∫ to 360∫ and scaled by a range of 100 values from 10% to 100%; the curves were then transformed into a lofted surface and a planar surface, representing a skyscraper skin and its floors.
+	From a closed and planar curve created in Rhinoceros 3D, moved into the axis Z by a series of 100 values, rotated by a range of 100 values from 0¬∫ to 360¬∫ and scaled by a range of 100 values from 10% to 100%; the curves were then transformed into a lofted surface and a planar surface, representing a skyscraper skin and its floors.
 	created May 4th, 2017
 	by Orion Campos <www.orioncampos.com> <https://github.com/orion-campos>
 
@@ -254,7 +254,7 @@ FIREFLY
 firefly_turning_tower
 
 	Turning Tower
-	From a closed and planar curve created in Rhinoceros 3D, moved into the axis Z by a series of 100 values, rotated by a range of 100 values from 0∫ to a specific angle determined by the plug-in Firefly and scaled by a range of 100 values from 10% to 100%; the curves were then transformed into a lofted surface and a planar surface, representing a skyscraper skin and its floors.
+	From a closed and planar curve created in Rhinoceros 3D, moved into the axis Z by a series of 100 values, rotated by a range of 100 values from 0¬∫ to a specific angle determined by the plug-in Firefly and scaled by a range of 100 values from 10% to 100%; the curves were then transformed into a lofted surface and a planar surface, representing a skyscraper skin and its floors.
 	The maximum rotation angle of the floors are remaped values read from a potentiometer connected to an Arduino <https://www.arduino.cc/>, and communicating with Grasshopper3D with the plug-in Firefly <http://www.fireflyexperiments.com/>.
 	created May 4th, 2017
 	by Orion Campos <www.orioncampos.com> <https://github.com/orion-campos>
@@ -274,7 +274,7 @@ Group1.1
 
 	Input:
 	1x DHT-22 (AM2302)
-	1x 10KΩ resistor
+	1x 10K¬Ω resistor
 	Output:
 	1x DF15 Metal Gear Servo (15kg)
 	1x 2.1mm DC barrel jack
@@ -297,7 +297,7 @@ Group1.2
 
 	Input:
 	1x DHT-22 (AM2302)
-	1x 10KΩ resistor
+	1x 10K¬Ω resistor
 	Output:
 	2x Futaba S3003 Servo Motor
 	1x 2.1mm DC barrel jack
@@ -319,7 +319,7 @@ Group2.1
   
 	Input:
 	1x Photo cell (CdS photoresistor)
-	1x 10KΩ resistor
+	1x 10K¬Ω resistor
 	Output:
 	4x 5mm LED
 
@@ -357,7 +357,7 @@ Group3.1
 	The students of this group had one common theme along their research, which was a bottom up approach to the morphogenesis of architecture. They were also interested in a form finding approach exploring different materials.
 	Because of those characteristics, it was suggested to not do an object with an end of itself, but a tool to help them find the form they where looking.
 	Similar to a random machine that creates impracticable outputs, two servos would rotate based on the distance read from a Infra-red distance sensor, which would be operated by the user. The servos would have laser-cut patterns attached which would rotate against a white fabric with different grains on top, that would rearrange themselves to the new geometry of the tensioned fabric.
-	Concept of project done by  David Gonçalves, Yair Ben David, Eliran Buzaglo, and Maria Korpachev under the tuition of Orion Campos, at the Kinetic Structures Workshop, Bezalel Academy of Arts and Design, Department of Architecture.
+	Concept of project done by  David Gon¬çalves, Yair Ben David, Eliran Buzaglo, and Maria Korpachev under the tuition of Orion Campos, at the Kinetic Structures Workshop, Bezalel Academy of Arts and Design, Department of Architecture.
 	Jerusalem, January 7th to 14th, 2018
 
 	Input:
@@ -403,7 +403,7 @@ Group4
 
 	Input:
 	4x Photo cell (CdS photoresistor)
-	4x 10KΩ resistor
+	4x 10K¬Ω resistor
 
 	created January 10th, 2018
 	by Orion Campos <www.orioncampos.com> <https://github.com/orion-campos>

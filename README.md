@@ -202,16 +202,19 @@ Create a module of an opening mechanism for a building facade, which would open 
 For optimization of the materials and movable pieces, each module would be opened by only one strong servo (DF15 Metal Gear Servo - 15kg). This servo would rotate four cables at the same time, which would then open four different paper tentacles covered with a light and elastic white fabric that covers the paper tentacles and the cables,givingg structuralstrengthh to the module.<br>
 Concept of project done by Michal Weintraub and Doron Winter under the tuition of Orion Campos, at the Kinetic Structures Workshop, Bezalel Academy of Arts and Design, Department of Architecture.<br>
 Jerusalem, January 7th to 14th, 2018<br>
-**Input:**
-- 1x DHT-22 (AM2302)
-- 1x 10K½ resistor
-**Output:**
-- 1x DF15 Metal Gear Servo (15kg)
-- 1x 2.1mm DC barrel jack
-- 1X Switching Power Supply - Selectable Output 3-12VDC 1000mA
 
-created January 10th, 2018 by [Orion Campos](https://github.com/orion-campos)
-This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. [![creative](https://img.shields.io/badge/Creative%20Commons-EF9421?style=for-the-badge&logo=creativecommons&logoColor=white)](https://creativecommons.org/)
+**Input:**
+- 1x DHT-22 (AM2302)<br>
+- 1x 10K½ resistor<br>
+
+**Output:**
+- 1x DF15 Metal Gear Servo (15kg)<br>
+- 1x 2.1mm DC barrel jack<br>
+- 1X Switching Power Supply - Selectable Output 3-12VDC 1000mA<br>
+
+created January 10th, 2018 by [Orion Campos](https://github.com/orion-campos)<br>
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.<br>
+[![creative](https://img.shields.io/badge/Creative%20Commons-EF9421?style=for-the-badge&logo=creativecommons&logoColor=white)](https://creativecommons.org/)
 
 ## Group1.2
 **Automated Thermoplastic Triggered by Temperature**
@@ -220,16 +223,19 @@ The Thermoplastic would be inside a glass bowl and when this bowl would be fille
 The servos would execute a series of predetermined movements and would it be triggered by a temperature sensor. When the water reaches a specific temperature, the servos start to rotate.<br>
 Concept of project done by Noa Guy and Mordechai Bachar under the tuition of Orion Campos, at the Kinetic Structures Workshop, Bezalel Academy of Arts and Design, Department of Architecture.<br>
 Jerusalem, January 7th to 14th, 2018<br>
-**Input:**
-- 1x DHT-22 (AM2302)
-- 1x 10K½ resistor
-**Output:**
-- 2x Futaba S3003 Servo Motor
-- 1x 2.1mm DC barrel jack
-- 1X Switching Power Supply - Selectable Output 3-7VDC 1000mA
 
-created January 10th, 2018 by [Orion Campos](https://github.com/orion-campos)
-This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. [![creative](https://img.shields.io/badge/Creative%20Commons-EF9421?style=for-the-badge&logo=creativecommons&logoColor=white)](https://creativecommons.org/)
+**Input:**
+- 1x DHT-22 (AM2302)<br>
+- 1x 10K½ resistor<br>
+
+**Output:**
+- 2x Futaba S3003 Servo Motor<br>
+- 1x 2.1mm DC barrel jack<br>
+- 1X Switching Power Supply - Selectable Output 3-7VDC 1000mA<br>
+
+created January 10th, 2018 by [Orion Campos](https://github.com/orion-campos)<br>
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.<br>
+[![creative](https://img.shields.io/badge/Creative%20Commons-EF9421?style=for-the-badge&logo=creativecommons&logoColor=white)](https://creativecommons.org/)
 
 ## Group2.1
 **Lightning System Triggered by Light**
@@ -237,14 +243,17 @@ The architectural project consisted of a canopy for a public street. To give the
 The lights would be turned on automatically after evening, by a series of light sensors reading the environment light.<br>
 Concept of project done by Sapir Dror and Eran Damari under the tuition of Orion Campos, at the Kinetic Structures Workshop, Bezalel Academy of Arts and Design, Department of Architecture.<br>
 Jerusalem, January 7th to 14th, 2018<br>
-**Input:**
-- 1x Photo cell (CdS photoresistor)
-- 1x 10K½ resistor
-**Output:**
-- 4x 5mm LED
 
-created January 10th, 2018 by [Orion Campos](https://github.com/orion-campos)
-This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. [![creative](https://img.shields.io/badge/Creative%20Commons-EF9421?style=for-the-badge&logo=creativecommons&logoColor=white)](https://creativecommons.org/)
+**Input:**
+- 1x Photo cell (CdS photoresistor)<br>
+- 1x 10K½ resistor<br>
+
+**Output:**
+- 4x 5mm LED<br>
+
+created January 10th, 2018 by [Orion Campos](https://github.com/orion-campos)<br>
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.<br>
+[![creative](https://img.shields.io/badge/Creative%20Commons-EF9421?style=for-the-badge&logo=creativecommons&logoColor=white)](https://creativecommons.org/)
 
 ## Group2.2
 **Visual Representation Triggered by Distance**
@@ -253,32 +262,38 @@ For the project, two SHARP IR distance sensor read the distance of a user (it's 
 Those bright RGB's are attached to layers of acrylic, engraved with a graphical representation of the studied terrain. By refraction of the light, the engraved lines on the acrylic surface are illuminated.<br>
 Concept of project done by Yuval Bar-Adon under the tuition of Orion Campos, at the Kinetic Structures Workshop, Bezalel Academy of Arts and Design, Department of Architecture.<br>
 Jerusalem, January 7th to 14th, 2018<br>
-**Input:**
-- 1x SHARP IR distance sensor (GP2Y0A21YK0F - 10 to 80cm range, GP2Y0A02YK - 20 to 150cm range, GP2Y0A710K0F - 100 to 500cm)
-**Output:**
-- 4x F3W-9W RGB LED
-- 1x 2.1mm DC barrel jack
-- 1X Switching Power Supply - Selectable Output 3-7VDC 1000mA
 
-created January 10th, 2018 by [Orion Campos](https://github.com/orion-campos)
-This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. [![creative](https://img.shields.io/badge/Creative%20Commons-EF9421?style=for-the-badge&logo=creativecommons&logoColor=white)](https://creativecommons.org/)
+**Input:**
+- 1x SHARP IR distance sensor (GP2Y0A21YK0F - 10 to 80cm range, GP2Y0A02YK - 20 to 150cm range, GP2Y0A710K0F - 100 to 500cm)<br>
+
+**Output:**
+- 4x F3W-9W RGB LED<br>
+- 1x 2.1mm DC barrel jack<br>
+- 1X Switching Power Supply - Selectable Output 3-7VDC 1000mA<br>
+
+created January 10th, 2018 by [Orion Campos](https://github.com/orion-campos)<br>
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.<br>
+[![creative](https://img.shields.io/badge/Creative%20Commons-EF9421?style=for-the-badge&logo=creativecommons&logoColor=white)](https://creativecommons.org/)
 
 ## Group3.1
 **Automated Movement Triggered by Distance**
 The students of this group had one common theme along their research, which was a bottom up approach to the morphogenesis of architecture. They were also interested in a form finding approach exploring different materials.<br>
 Because of those characteristics, it was suggested to not do an object with an end of itself, but a tool to help them find the form they where looking.<br>
 Similar to a random machine that creates impracticable outputs, two servos would rotate based on the distance read from a Infra-red distance sensor, which would be operated by the user. The servos would have laser-cut patterns attached which would rotate against a white fabric with different grains on top, that would rearrange themselves to the new geometry of the tensioned fabric.<br>
-Concept of project done by  David Gonalves, Yair Ben David, Eliran Buzaglo, and Maria Korpachev under the tuition of Orion Campos, at the Kinetic Structures Workshop, Bezalel Academy of Arts and Design, Department of Architecture.<br>
+Concept of project done by  David Gonçalves, Yair Ben David, Eliran Buzaglo, and Maria Korpachev under the tuition of Orion Campos, at the Kinetic Structures Workshop, Bezalel Academy of Arts and Design, Department of Architecture.<br>
 Jerusalem, January 7th to 14th, 2018<br>
-**Input:**
-- 1x SHARP IR distance sensor (GP2Y0A21YK0F - 10 to 80cm range, GP2Y0A02YK - 20 to 150cm range, GP2Y0A710K0F - 100 to 500cm)
-**Output:**
-- 2x Futaba S3003 Servo Motor
-- 1x 2.1mm DC barrel jack
-- 1X Switching Power Supply - Selectable Output 3-7VDC 1000mA
 
-created January 10th, 2018 by [Orion Campos](https://github.com/orion-campos)
-This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. [![creative](https://img.shields.io/badge/Creative%20Commons-EF9421?style=for-the-badge&logo=creativecommons&logoColor=white)](https://creativecommons.org/)
+**Input:**
+- 1x SHARP IR distance sensor (GP2Y0A21YK0F - 10 to 80cm range, GP2Y0A02YK - 20 to 150cm range, GP2Y0A710K0F - 100 to 500cm)<br>
+
+**Output:**
+- 2x Futaba S3003 Servo Motor<br>
+- 1x 2.1mm DC barrel jack<br>
+- 1X Switching Power Supply - Selectable Output 3-7VDC 1000mA<br>
+
+created January 10th, 2018 by [Orion Campos](https://github.com/orion-campos)<br>
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.<br>
+[![creative](https://img.shields.io/badge/Creative%20Commons-EF9421?style=for-the-badge&logo=creativecommons&logoColor=white)](https://creativecommons.org/)
 
 ## Group3.2
 **Opening Mechanism Triggered by Distance**
@@ -286,25 +301,30 @@ Create a device that push two layers of Lycra in different directions by a serie
 The servos would rotate an angle proportional to the distance read by an Infra-red distance sensor, that would be operated by the user.<br>
 Concept of project done by  Tal Chiki under the tuition of Orion Campos, at the Kinetic Structures Workshop, Bezalel Academy of Arts and Design, Department of Architecture.<br>
 Jerusalem, January 7th to 14th, 2018<br>
-**Input:**
-- 1x SHARP IR distance sensor (GP2Y0A21YK0F - 10 to 80cm range, GP2Y0A02YK - 20 to 150cm range, GP2Y0A710K0F - 100 to 500cm)
-**Output:**
-- 2x Futaba S3003 Servo Motor
-- 1x 2.1mm DC barrel jack
-- 1X Switching Power Supply - Selectable Output 3-7VDC 1000mA
 
-created January 10th, 2018 by [Orion Campos](https://github.com/orion-campos)
-This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. [![creative](https://img.shields.io/badge/Creative%20Commons-EF9421?style=for-the-badge&logo=creativecommons&logoColor=white)](https://creativecommons.org/)
+**Input:**
+- 1x SHARP IR distance sensor (GP2Y0A21YK0F - 10 to 80cm range, GP2Y0A02YK - 20 to 150cm range, GP2Y0A710K0F - 100 to 500cm)<br>
+
+**Output:**
+- 2x Futaba S3003 Servo Motor<br>
+- 1x 2.1mm DC barrel jack<br>
+- 1X Switching Power Supply - Selectable Output 3-7VDC 1000mA<br>
+
+created January 10th, 2018 by [Orion Campos](https://github.com/orion-campos)<br>
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.<br>
+[![creative](https://img.shields.io/badge/Creative%20Commons-EF9421?style=for-the-badge&logo=creativecommons&logoColor=white)](https://creativecommons.org/)
 
 ## Group4
 **Grasshopper triggered by Light**
 Create a physical model of a crystal made of laser-cut thick paper, which geometry was also modeled parametrically using Grasshopper 3D.<br>
 At 4 faces of the crystal, were installed 4 photoresistors that read the amount of light through an [Arduino](https://www.arduino.cc/). Grasshopper receives this value through the [Firefly pluggin](http://www.fireflyexperiments.com/), which translates through the code to colors at a virtual model of the same physical crystal model.<br>
 Concept of project done by Itay Stoler under the tuition of Orion Campos, at the Kinetic Structures Workshop, Bezalel Academy of Arts and Design, Department of Architecture. Jerusalem, January 7th to 14th, 2018<br>
-**Input:**
-- 4x Photo cell (CdS photoresistor)
-- 4x 10K½ resistor
 
-created January 10th, 2018 by [Orion Campos](https://github.com/orion-campos)
-This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. [![creative](https://img.shields.io/badge/Creative%20Commons-EF9421?style=for-the-badge&logo=creativecommons&logoColor=white)](https://creativecommons.org/)
+**Input:**
+- 4x Photo cell (CdS photoresistor)<br>
+- 4x 10K½ resistor<br>
+
+created January 10th, 2018 by [Orion Campos](https://github.com/orion-campos)<br>
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.<br>
+[![creative](https://img.shields.io/badge/Creative%20Commons-EF9421?style=for-the-badge&logo=creativecommons&logoColor=white)](https://creativecommons.org/)
 
